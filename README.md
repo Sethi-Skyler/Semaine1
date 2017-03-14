@@ -7,6 +7,7 @@ Je baraguine un peu de code et viens ici afin de professionnaliser la chose.
 
   *Ancien artisan taxi  
   *Ancien paysagiste  
+  *J'ai déjà réalisé un site en html/CSS [Site Emersys](https://github.com/Sethi-Skyler/Semaine1/commit/0cdd1126fb3ab005b4be9515a30ff272df3ba3f5 "Aller à Emersys")  
   *Je touche un peu à tout et quand j'en ai fait le tour, je passe à autre chose...  
 
 ###Issu de la formation de la vie, je suis de ceux qui croient qu'on appred tous les jours.  
