@@ -1,6 +1,6 @@
 #semaine1  
 ###Fabrice VIE  
-![Photo de moi](C:\Users\fabrice\Documents\GitHub\Semaine1\Images\moi bébé.jpg "photo de moi bébé")  
+![Photo de moi](https://github.com/Sethi-Skyler/Semaine1/blob/master/Images/moi%20b%C3%A9b%C3%A9.jpg "photo de moi bébé")  
 Je baraguine un peu de code et viens ici afin de professionnaliser la chose.  
 
 ##Expérience professionnelle  
